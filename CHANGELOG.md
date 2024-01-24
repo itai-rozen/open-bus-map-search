@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/hasadna/open-bus-map-search/compare/v1.0.0...v1.0.1) (2024-01-24)
+
+
+### Bug Fixes
+
+* Fix for issue [#428](https://github.com/hasadna/open-bus-map-search/issues/428) unable to run project locally ([#430](https://github.com/hasadna/open-bus-map-search/issues/430)) ([94f7c68](https://github.com/hasadna/open-bus-map-search/commit/94f7c68a0e9b93743cfbd72e8e694b5c6c4782ae))
+
 ## 1.0.0 (2024-01-22)
 
 
